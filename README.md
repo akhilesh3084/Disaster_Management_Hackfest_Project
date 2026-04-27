@@ -20,3 +20,7 @@ CSS for styling
 JavaScript for interactivity
 
 Live Demo : https://disaster-management-akhi.netlify.app/
+
+Use this credentials for Sign in :
+Email : disaster@gmail.com
+Pass : disaster123

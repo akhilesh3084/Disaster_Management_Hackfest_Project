@@ -19,4 +19,4 @@ HTML for structure
 CSS for styling
 JavaScript for interactivity
 
-Live Demo : disaster-management-akhi.netlify.app
+Live Demo : https://app.netlify.com/projects/disaster-management-akhi/overview

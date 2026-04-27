@@ -18,3 +18,5 @@ Create an accessible, easy-to-use interface for people of all ages
 HTML for structure
 CSS for styling
 JavaScript for interactivity
+
+Live Demo : disaster-management-akhi.netlify.app
